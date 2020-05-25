@@ -1,0 +1,23 @@
+{
+  "name": "tim-berners-lee",
+  "version": "1.0.0",
+  "description": "exercice final initiation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch assets/scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marstein777/tim-berners-lee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marstein777/tim-berners-lee/issues"
+  },
+  "homepage": "https://github.com/marstein777/tim-berners-lee#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
